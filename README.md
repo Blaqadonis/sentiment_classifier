@@ -1,7 +1,8 @@
 # Sentiment Classifier
 ### Powered by 🅱🅻🅰🆀
 
-![image](https://github.com/Blaqadonis/sentiment_classifier/assets/100685852/3bb89e85-08bd-4752-b983-37218254f30c)  ![image](https://github.com/Blaqadonis/sentiment_classifier/assets/100685852/dafa0505-3ccf-4894-8408-2a928100805c) ![image](https://github.com/Blaqadonis/sentiment_classifier/assets/100685852/9ef4fed6-1bf3-4c02-9cec-cd1e8e35b937)
+![image](https://github.com/Blaqadonis/sentiment_classifier/assets/100685852/3bb89e85-08bd-4752-b983-37218254f30c)  ![image](https://github.com/Blaqadonis/sentiment_classifier/assets/100685852/dafa0505-3ccf-4894-8408-2a928100805c) ![image](https://github.com/Blaqadonis/sentiment_classifier/assets/100685852/9ef4fed6-1bf3-4c02-9cec-cd1e8e35b937) ![image](https://github.com/Blaqadonis/sentiment_classifier/assets/100685852/da296ed0-963c-4ad2-b37a-eef7bf3074c0)
+
 
 
 
