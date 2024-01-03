@@ -39,12 +39,11 @@ To set up the project, follow these steps:
 ## Screenshots
 
 1. **API Documentation:**
-![API Documentation Screenshot](![one](https://github.com/Blaqadonis/sentiment_classifier/assets/100685852/0ddb6c30-8c10-4296-b192-dda517b8bd23)
-)
+![one](https://github.com/Blaqadonis/sentiment_classifier/assets/100685852/e6df0ee8-4e7b-4881-b129-b8cf222637ae)
+
 
 2. **Example of API Usage:**
-![API Usage Screenshot](![two](https://github.com/Blaqadonis/sentiment_classifier/assets/100685852/aeba906f-4c3c-47df-ba7d-6f6473c201a3)
-)
+![two](https://github.com/Blaqadonis/sentiment_classifier/assets/100685852/4bc38e92-05bb-4a1b-8a83-d733b0cd8aae)
 
 
 ## Contributing
